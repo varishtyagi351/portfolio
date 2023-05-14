@@ -2,7 +2,7 @@
   "name": "3d-portfolio2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://varishtyagi351.github.io/3D-portfolio2",
+  "homepage": "https://varishtyagi351.github.io/varish351",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
