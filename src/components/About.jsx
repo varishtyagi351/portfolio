@@ -50,7 +50,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm Varish | Second year student.I am CSE'25 Undergrad student at CERT
+        I'm Varish | I am CSE'25 Undergrad student at CERT
         Meerut. I am Very Passionate about improving my coding skills and 
         developing mini websites. I build websites specially for the projects
         purpose. Working for myself to improve my skills. Love to build full

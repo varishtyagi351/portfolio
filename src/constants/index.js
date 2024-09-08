@@ -124,7 +124,7 @@ import {
       points: [
         "College Of Engineering And Rural Technology From Meerut Uttar Pradesh.",
         "Affilated From AKTU Lucknow.",
-        "7.7 CGPA upto 1st Year.",
+        "8.0 SGPA upto 3rd Year.",
         "Participated in several hackathons and coding competitions.",
         "Completed a series of courses that provided a solid foundation in computer science, including programming fundamentals, data structures, and algorithms.",
       ],
@@ -144,7 +144,7 @@ import {
     },
     {
       title: "Web Development",
-      company_name: "@Code With Harry",
+      company_name: "@Codehelp",
       icon: shopify,
       iconBg: "#383E56",
       date: "2022 - Present",
@@ -157,7 +157,7 @@ import {
     },
     {
       title: "Data Structure & Algorithms",
-      company_name: "@College Wallah",
+      company_name: "@Codehelp",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "2022 - Present",
@@ -200,7 +200,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Imaginify AI SaaS Web App",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -218,7 +218,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/varishtyagi351/imaginify_app",
     },
     {
       name: "Job IT",
@@ -239,7 +239,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/varishtyagi351/zoom_clone",
     },
     {
       name: "Trip Guide",
@@ -260,7 +260,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/varishtyagi351/events_plateform",
     },
   ];
   
